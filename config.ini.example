@@ -1,9 +1,11 @@
 [oauth]
 consumer_key=
 consumer_secret=
-access_token=
-access_token_secret=
 
 [server]
 host=0.0.0.0
 port=5000
+
+[client1]
+access_token=
+access_token_secret=
